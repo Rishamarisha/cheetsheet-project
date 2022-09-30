@@ -1,0 +1,26 @@
+body {
+    background-color: whitesmoke;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid black;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+th {
+    text-transform: uppercase;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
